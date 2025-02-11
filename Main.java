@@ -26,7 +26,7 @@ public class Main {
 //        int marks = input.nextInt();
 //        System.out.print("Total Marks = ");
 //        int totalMarks = input.nextInt();
-//        System.out.println("Expected Output: Percentage = " + (marks * totalMarks / totalMarks)+"%");
+//        System.out.println("Expected Output: Percentage = " + (marks / totalMarks * 100)+"%");
 
         /// /////////////////////////////////////////////////////////////
 
